@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dicegame-react/static/css/main.1401221d.css",
+    "main.js": "/Dicegame-react/static/js/main.acc25e59.js",
+    "index.html": "/Dicegame-react/index.html",
+    "main.1401221d.css.map": "/Dicegame-react/static/css/main.1401221d.css.map",
+    "main.acc25e59.js.map": "/Dicegame-react/static/js/main.acc25e59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1401221d.css",
+    "static/js/main.acc25e59.js"
+  ]
+}
